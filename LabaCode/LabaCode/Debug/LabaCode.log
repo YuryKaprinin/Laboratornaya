@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(10,12): warning C4047: функция: "unsigned int" отличается по уровням косвенного обращения от "time_t (__cdecl *)(time_t *const )"
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(10,8): warning C4024: srand: различные типы для формального и фактического параметров 1
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(20,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(85): warning C4716: Slianie: должна возвращать значение
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(97): warning C4716: Slianie1: должна возвращать значение
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(152): warning C4716: InsertSort: должна возвращать значение
+C:\Users\Сергей\source\repos\LabaCode\LabaCode\Source.c(131): warning C4716: BubbleSort: должна возвращать значение
+  LabaCode.vcxproj -> C:\Users\Сергей\source\repos\LabaCode\Debug\LabaCode.exe
